@@ -1,4 +1,4 @@
-# CobAaja
+# Hardware Programmer Assignment
 
 A PlatformIO-based ESP32 project that uses an MPU6050 sensor to detect tilt and visually indicate orientation with four LEDs.
 
